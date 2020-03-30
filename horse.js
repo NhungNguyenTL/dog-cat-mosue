@@ -1,4 +1,4 @@
-funciton horse() {
-
+function Horse() {
+    
 }
-module.exports = horse;
+module.exports = Horse;
